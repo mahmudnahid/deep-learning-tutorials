@@ -2,6 +2,7 @@
 
 This repository includes a collection of deep learning tutorials.
 
+
 ### Setup
 1. `python -m venv ./venv/pytorch_with_huggingface`
 2. activate the environment
